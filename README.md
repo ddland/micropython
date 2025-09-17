@@ -18,3 +18,5 @@ Here is an overview of the libraries I collected for various sensors and actuato
 ### Other
 * [CutebotPro](https://github.com/ddland/mp_cutebotpro) 
   MicroPython library for the [CutebotPro](https://shop.elecfreaks.com/products/elecfreaks-smart-cutebot-pro-v2-programming-robot-car-for-micro-bit) with a [Micro:bit](https://microbit.org) running MicroPython.
+* [MCP4725](https://github.com/ddland/mp_mcp4725) 
+  Driver for the [MCP4725](https://www.sparkfun.com/sparkfun-i2c-dac-breakout-mcp4725.html) DAC. Based on work from [Wayoda](https://github.com/wayoda/micropython-mcp4725).
