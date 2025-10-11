@@ -13,6 +13,8 @@ Here is an overview of the libraries I collected for various sensors and actuato
 ### Environment
 * [SPS30](https://github.com/ddland/mp_sps30)
   Driver for the [SPS30](https://sensirion.com/products/catalog/SPS30) for the Raspberry Pi Pico. 
+* [SEN666](https://github.com/ddland/mp_sen66)
+  Driver for the [SEN66](https://sensirion.com/products/catalog/SEN66) for the Raspberry Pi Pico.
 * [TLV493D](https://github.com/ddland/mp_tlv493d)
   Driver for the [TLV493D](https://learn.adafruit.com/adafruit-tlv493-triple-axis-magnetometer), based on the work from [Adafruit](https://learn.adafruit.com/) and [Maarten Doves](https://github.com/MDoves).
 ### Other
