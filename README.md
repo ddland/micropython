@@ -6,7 +6,7 @@ Here is an overview of the libraries I collected for various sensors and actuato
 
 ## Tips and Tricks
 Some example code in order to explain software concepts. 
-* [Threading](https://github.com/ddland/micropython/threading) 
+* [Threading](https://github.com/ddland/micropython/tree/main/threading) 
   Threading on the Raspberrypi Pico. Allowing 
 
 ## Libraries
