@@ -6,6 +6,8 @@ Here is an overview of the libraries I collected for various sensors and actuato
 
 # Examples
 * [Examples](examples/README.md) Example code for interfacing the Raspberrypi Pico
+  * [Motors](examples/motors/MOTORS.md)
+    Control motors with the Raspberry Pi Pico
   * [Internal Temperature Sensor](examples/read_temperature.py)
     Read the internal temperature sensor with a loop!
 
