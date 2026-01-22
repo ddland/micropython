@@ -1,13 +1,12 @@
 # Hardware 
 
 # [motors](MOTORS.md#motors)
-**[28BYJ-48](MOTORS.md#28byj-48)** <br>
-**[DC-motor](MOTORS.md#dc-motor-small)** <br>
+* [28BYJ-48](MOTORS.md#28byj-48)
+  28BYJ stepper motor
+* [DC-motor](MOTORS.md#dc-motor-small)
+  Small DC motors
 
-# combined
-**[M5stack Watering Unit](#watering-unit)** <br>
-
-## Watering Unit 
+## Watering Unit (Pump and soilsensor)
 
 From M5Stack there is the [Watering Unit](https://docs.m5stack.com/en/unit/watering). A combination of a water-pump and a capacitive soil-moisture sensor.
 
