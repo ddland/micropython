@@ -5,17 +5,17 @@ Working with sensors creates quite a few libraries. Some are written by me, othe
 Here is an overview of the libraries I collected for various sensors and actuators. For my own libraries I use the [git - subtree](https://docs.github.com/en/get-started/using-git/about-git-subtree-merges) module. 
 
 # Examples
-* [Examples](examples/README.md) Example code for interfacing the Raspberrypi Pico
+* [Examples](examples/) Example code for interfacing the Raspberrypi Pico
   * [Internal Temperature Sensor](examples/read_temperature.py)
     Read the internal temperature sensor with a loop!
 
 # Tips and Tricks
 Some example code in order to explain software concepts and other tips and tricks for working with the Raspberrypi Pico.
-* [Tips & Tricks](https://github.com/ddland/micropython/tree/main/tips)
+* [Tips & Tricks](tips)
   General tips and tricks, specific:
-  * [Threading](https://github.com/ddland/micropython/tree/main/tips/threading) 
+  * [Threading](tips/threading) 
     Threading on the Raspberrypi Pico. Allowing two while loops running at the same time!
-  * [WatchDog](https://github.com/ddland/micropython/tree/main/tips/watchdog.py)
+  * [WatchDog](tips/watchdog.py)
     Use the watchdog which reboots the Pico when something doesn't work!
 
 # Libraries
