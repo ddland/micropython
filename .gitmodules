@@ -1,0 +1,18 @@
+[submodule "libraries/LTR390"]
+	path = libraries/LTR390
+	url = git@github.com:ddland/mp_ltr390.git
+[submodule "libraries/SEN66"]
+	path = libraries/SEN66
+	url = git@github.com:ddland/mp_sen66
+[submodule "libraries/MCP4725"]
+	path = libraries/MCP4725
+	url = git@github.com:ddland/mp_mcp4725
+[submodule "libraries/SPS30"]
+	path = libraries/SPS30
+	url = git@github.com:ddland/mp_sps30
+[submodule "libraries/TLV493D"]
+	path = libraries/TLV493D
+	url = git@github.com:ddland/mp_tlv493d
+[submodule "libraries/LIS3DHTR"]
+	path = libraries/LIS3DHTR
+	url = git@github.com:ddland/mp_lis3dhtr
