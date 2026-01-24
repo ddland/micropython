@@ -16,3 +16,6 @@
 [submodule "libraries/LIS3DHTR"]
 	path = libraries/LIS3DHTR
 	url = git@github.com:ddland/mp_lis3dhtr
+[submodule "libraries/CBP"]
+	path = libraries/CBP
+	url = git@github.com:ddland/mp_cutebotpro
