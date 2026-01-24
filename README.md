@@ -4,21 +4,19 @@ Working with sensors creates quite a few libraries. Some are written by me, othe
 
 Here is an overview of the libraries I collected for various sensors and actuators. For my own libraries I use the [git - subtree](https://docs.github.com/en/get-started/using-git/about-git-subtree-merges) module. 
 
-# Examples
-* [Examples](examples/) Example code for interfacing the Raspberrypi Pico
-  * [Motors](examples/motors/)
-    Control motors with the Raspberry Pi Pico
-  * [Internal Temperature Sensor](examples/read_temperature.py)
-    Read the internal temperature sensor with a loop!
+# [Examples](examples/)
+Example code for interfacing the Raspberrypi Pico
+* [Motors](examples/motors/)
+  Control motors with the Raspberry Pi Pico
+* [Internal Temperature Sensor](examples/read_temperature.py)
+  Read the internal temperature sensor with a loop!
 
-# Tips and Tricks
-Some example code in order to explain software concepts and other tips and tricks for working with the Raspberrypi Pico.
-* [Tips & Tricks](tips)
-  General tips and tricks, specific:
-  * [Threading](tips/threading) 
-    Threading on the Raspberrypi Pico. Allowing two while loops running at the same time!
-  * [WatchDog](tips/watchdog.py)
-    Use the watchdog which reboots the Pico when something doesn't work!
+# [Tips and Tricks](tips/)
+Tips and tricks explaining some coding concepts or useful tools whithin the micropython eco-system.
+* [Threading](tips/threading) 
+  Threading on the Raspberrypi Pico. Allowing two while loops running at the same time!
+* [WatchDog](tips/watchdog.py)
+  Use the watchdog which reboots the Pico when something doesn't work!
 
 # Libraries
 ## Acceleration
@@ -39,6 +37,8 @@ Some example code in order to explain software concepts and other tips and trick
   Driver for the [SEN66](https://sensirion.com/products/catalog/SEN66) for the Raspberry Pi Pico.
 * [TLV493D](https://github.com/ddland/mp_tlv493d)
   Driver for the [TLV493D](https://learn.adafruit.com/adafruit-tlv493-triple-axis-magnetometer), based on the work from [Adafruit](https://learn.adafruit.com/) and [Maarten Doves](https://github.com/MDoves).
+* [SHT45](https://github.com/jposada202020/MicroPython_SHT4X/tree/master)
+* Driver for the SHT5x Temperature and Humidity sensors. A bit outdated, but does still work.
 ## Other
 * [CutebotPro](https://github.com/ddland/mp_cutebotpro) 
   MicroPython library for the [CutebotPro](https://shop.elecfreaks.com/products/elecfreaks-smart-cutebot-pro-v2-programming-robot-car-for-micro-bit) with a [Micro:bit](https://microbit.org) running MicroPython.
