@@ -14,5 +14,5 @@ for bus in buses.keys():
         s = machine.I2C(bus, sda=sda, scl=sda+1)
         devs = s.scan()
         if len(devs) > 0:
-            print(bus, sda, sda+1, devs)
+            print(f"bus: {bus}, sda: {sda}, scl: {sda+1}, {devs}")
         
