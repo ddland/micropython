@@ -32,8 +32,8 @@ In the libraries subfolder there are submodules with my own modules. Here is a l
 ## Environment
 * [SPS30](https://github.com/ddland/mp_sps30)
   Driver for the particulate matter sensor [SPS30](https://sensirion.com/products/catalog/SPS30) for the Raspberry Pi Pico. 
-* [SEN66](https://github.com/ddland/mp_sen66)
-  Driver for the environment sensor [SEN66](https://sensirion.com/products/catalog/SEN66) for the Raspberry Pi Pico.
+* [SEN6x](https://github.com/ddland/mp_sen6x)
+  Driver for the environment sensor [SEN66](https://sensirion.com/products/catalog/SEN66) and [SEN63-C](https://sensirion.com/products/catalog/SEN63C) for the Raspberry Pi Pico.
 ## Light
 * [LTR390](https://github.com/ddland/mp_ltr390)
   Driver for the Ambient and UV light sensor [LTR390](https://www.adafruit.com/product/4831) from Adafruit.
