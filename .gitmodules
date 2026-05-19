@@ -16,3 +16,6 @@
 [submodule "libraries/cutebotpro"]
 	path = libraries/cutebotpro
 	url = git@github.com:ddland/mp_cutebotpro
+[submodule "libraries/SEN6x"]
+	path = libraries/SEN6x
+	url = git@github.com:ddland/mp_sen6x.git
