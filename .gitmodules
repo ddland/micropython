@@ -1,9 +1,6 @@
 [submodule "libraries/LTR390"]
 	path = libraries/LTR390
 	url = git@github.com:ddland/mp_ltr390
-[submodule "libraries/SEN6x"]
-	path = libraries/SEN6x
-	url = git@github.com:ddland/mp_sen6x
 [submodule "libraries/MCP4725"]
 	path = libraries/MCP4725
 	url = git@github.com:ddland/mp_mcp4725
