@@ -8,3 +8,5 @@ Scripts which can help with interfacing with the Raspberrpyi Pico.
   Scan all the possible I2C gpio-pins for the 2 busses on the Raspberrypi Pico.
 * [Watchdog](watchdog.py) 
   Oneline to disable the watchdog after you enabled it.
+* [MAC-address](display_mac.py)
+  Write the mac-address of the RaspberryPi Pico W to the REPL. 
