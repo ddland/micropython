@@ -16,7 +16,7 @@ Tips and tricks explaining some coding concepts or useful tools within the micro
 * [WatchDog](tips/watchdog.py)
   Use the watchdog which reboots the Pico when something doesn't work!
 
-# [Libraries](libraries/)
+# Libraries
 In the libraries subfolder there are submodules with my own modules. Here is a list of both my own code, drivers adapted from others code or links to drivers written by others. 
 ## Acceleration
 * [LIS3DHTR](https://github.com/ddland/mp_lis3dhtr)
@@ -34,15 +34,20 @@ In the libraries subfolder there are submodules with my own modules. Here is a l
   Driver for the particulate matter sensor [SPS30](https://sensirion.com/products/catalog/SPS30) for the Raspberry Pi Pico. 
 * [SEN6x](https://github.com/ddland/mp_sen6x)
   Driver for the environment sensor [SEN66](https://sensirion.com/products/catalog/SEN66) and [SEN63-C](https://sensirion.com/products/catalog/SEN63C) for the Raspberry Pi Pico.
+* [SGP30](libraries/SGP30.md) Example code for interfacing the SGP30 VOC and eCO2 sensor.
+* [SGP40](libraries/SGP40.md) Example code for interfacing the SGP40 VOC sensor.
 ## Light
 * [LTR390](https://github.com/ddland/mp_ltr390)
   Driver for the Ambient and UV light sensor [LTR390](https://www.adafruit.com/product/4831) from Adafruit.
+* [AS7341](libraries/AS7341.md) example code for the 10 band optical light sensor for measureing different colours. 
+## Location
+* [VL53L4CD](libraries/VL53L4CD.md) Example code for the range (0-20cm) sensor.
 ## Magnetic Fields
 * [TLV493D](https://github.com/ddland/mp_tlv493d)
   Driver for the magnetometer [TLV493D](https://learn.adafruit.com/adafruit-tlv493-triple-axis-magnetometer), based on the work from [Adafruit](https://learn.adafruit.com/) and [Maarten Doves](https://github.com/MDoves).
-## Temperature and/or humidity
-* [SHT45](https://github.com/jposada202020/MicroPython_SHT4X/tree/master)
-* Driver for the SHT5x Temperature and Humidity sensors. A bit outdated, but does still work.
+## Temperature and/or humidity or pressure
+* [SHT4x](https://github.com/jposada202020/MicroPython_SHT4X/tree/master) Driver for the SHT4x Temperature and Humidity sensors. A bit outdated, but does still work.
+* [BME680](libraries/BME680.md) example code for the BME680 temperature, humidity and pressure sensor.
 ## 
 
 # MicroBIT platform
