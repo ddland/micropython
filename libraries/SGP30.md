@@ -1,6 +1,6 @@
 # SGP30
 
-The [Adafruit SGP30 libary](https://github.com/adafruit/Adafruit_CircuitPython_SGP30) works with the Raspberrypi Pico. Example code for interfacing with the hardware:
+The [SGP30 libary from alexmrqt](https://github.com/alexmrqt/micropython-sgp30) works with the Raspberrypi Pico. Example code for interfacing with the hardware:
 
 ```python
 if __name__ == "__main__":
