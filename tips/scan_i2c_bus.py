@@ -11,7 +11,7 @@ buses = {0:sda0, 1:sda1}
 
 for bus in buses.keys():
     for sda in buses[bus]:
-        s = machine.I2C(bus, sda=sda, scl=sda+1)
+        s = machine.I2C(bus, sda=sda, scl=sda+1,freq=100000)
         devs = s.scan()
         if len(devs) > 0:
             print(f"bus: {bus}, sda: {sda}, scl: {sda+1}, {devs}")
