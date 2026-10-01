@@ -1,21 +1,21 @@
 [submodule "libraries/LTR390"]
 	path = libraries/LTR390
-	url = git@github.com:ddland/mp_ltr390
+	url = https://github.com/ddland/mp_ltr390
 [submodule "libraries/MCP4725"]
 	path = libraries/MCP4725
-	url = git@github.com:ddland/mp_mcp4725
+	url = https://github.com/ddland/mp_mcp4725
 [submodule "libraries/SPS30"]
 	path = libraries/SPS30
-	url = git@github.com:ddland/mp_sps30
+	url = https://github.com/ddland/mp_sps30
 [submodule "libraries/TLV493D"]
 	path = libraries/TLV493D
-	url = git@github.com:ddland/mp_tlv493d
+	url = https://github.com/ddland/mp_tlv493d
 [submodule "libraries/LIS3DHTR"]
 	path = libraries/LIS3DHTR
-	url = git@github.com:ddland/mp_lis3dhtr
+	url = https://github.com/ddland/mp_lis3dhtr
 [submodule "libraries/cutebotpro"]
 	path = libraries/cutebotpro
-	url = git@github.com:ddland/mp_cutebotpro
+	url = https://github.com/ddland/mp_cutebotpro
 [submodule "libraries/SEN6x"]
 	path = libraries/SEN6x
-	url = git@github.com:ddland/mp_sen6x.git
+	url = https://github.com/ddland/mp_sen6x
